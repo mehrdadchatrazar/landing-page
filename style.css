@@ -85,3 +85,20 @@ li {
     width: 150px;
     height: auto;
 }
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #E5E7EB;
+    padding: 100px 0;
+}
+
+.quote > p {
+    width: 1200px;
+}
+
+.quote > h3 {
+    text-align: end;
+}
+
