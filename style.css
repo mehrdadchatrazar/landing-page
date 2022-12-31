@@ -128,3 +128,15 @@ li {
     color:#E5E7EB;
     background-color: #3882F6;
 }
+
+.copyright {
+    text-align: center;
+    font-size: 14px;
+    color: #E5E7EB;
+    background-color: #1F2937;
+    padding: 25px 0;
+}
+
+.copyright > p {
+    margin: 0;
+}
