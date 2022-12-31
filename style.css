@@ -102,3 +102,29 @@ li {
     text-align: end;
 }
 
+.footer {
+    display: flex;
+    justify-content: center;
+    padding: 100px 0;
+    color: #E5E7EB;
+}
+
+.footer-inner {
+    display: flex;
+    gap: 100px;
+    background-color: #3882F6;
+    padding: 50px 120px;
+    border-radius: 10px;
+}
+
+.button-container {
+    align-self: center;
+}
+
+.footer-inner button {
+    padding: 10px 30px;
+    border-radius: 5px;
+    border: #E5E7EB solid 2px;
+    color:#E5E7EB;
+    background-color: #3882F6;
+}
